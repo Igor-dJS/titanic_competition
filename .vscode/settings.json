@@ -1,0 +1,7 @@
+{
+    "accessibility.signals.sounds.volume": 0,
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "off",
+        "announcement": "off"
+    }
+}
